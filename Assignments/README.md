@@ -1,4 +1,4 @@
 
 |   #   | Folder Link                            | Assignment Description                               |
 | :---: | -------------------------------------- | ---------------------------------------------------- |
-|   0   | [0](./FakeAssignments/A01/README.md) | [description 0](./FakeAssignments/A01/README.md) |
+|   1  | [P02](./FakeAssignments/A01/README.md) | [Using JSON and GETCH](./FakeAssignments/A01/README.md) |
