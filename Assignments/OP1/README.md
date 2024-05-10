@@ -18,3 +18,5 @@ This program creates a linked list-based Vector class that can perform methods t
 - Make sure the input file you use is named 'dat.txt' and the output file is named 'out.txt'.
 
 ### Output
+
+<img src= 'https://github.com/rugbyprof/3013-Algorithms/assets/156955919/cf55b1e5-3ebc-4988-9d50-78b0236fb5d5' width='1000'>
