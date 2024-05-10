@@ -10,10 +10,10 @@ This program uses Json and Getch to perform a linear search using a Json object 
 
 |   File  | Description                          |
 | :---: | -------------------------------------- |
-|  [main.cpp](Assignments/P02/main.cpp)  | The main file that launches the program. |
-|  [console.hpp](/Assignments/P02/console.hpp)  | Determines the system type (windows/linux). |
-|  [json.hpp](/Assignments/P02/json.hpp)  | Loads functions to perform on JSON objects. |
-|  [rang.hpp](/Assignments/P02/rang.hpp)  | Allows colored text to be shown. |
+|  [main.cpp](main.cpp)  | The main file that launches the program. |
+|  [console.hpp](console.hpp)  | Determines the system type (windows/linux). |
+|  [json.hpp](json.hpp)  | Loads functions to perform on JSON objects. |
+|  [rang.hpp](rang.hpp)  | Allows colored text to be shown. |
 |  dictionary.json  | The dictionary of words used for autosuggestions. |
 
 ### Instructions
