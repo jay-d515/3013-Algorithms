@@ -24,4 +24,4 @@ This program uses Json and Getch to perform a linear search using a Json object 
 - To terminate without finding a word, press 'Z'.
 
 ### Output
-<img src='file:///C:/Users/jadyn/Downloads/output%201.png' width='100'>
+[<img src='https://github.com/jay-d515/3013-Algorithms/issues/1#issue-2288924412' width='400'>](https://github.com/jay-d515/3013-Algorithms/issues/1#issue-2288924412)
