@@ -8,13 +8,13 @@ This program uses Json and Getch to perform a linear search using a Json object 
 
 ### Files
 
-|   File  | Description                          | Location                               |
-| :---: | -------------------------------------- | ---------------------------------------------------- |
-|  main.cpp  | The main file that launches the program. | [Code Repository](./FakeAssignments/A01/README.md) |
-|  console.hpp  | Determines the system type (windows/linux). | [Code Repository](./FakeAssignments/A01/README.md) |
-|  json.hpp  | Loads functions to perform on JSON objects. | [Code Repository](./FakeAssignments/A01/README.md) |
-|  rang.hpp  | Allows colored text to be shown. | [Code Repository](./FakeAssignments/A01/README.md) |
-|  dictionary.json  | The dictionary of words used for autosuggestions. | [Code Repository](./FakeAssignments/A01/README.md) |
+|   File  | Description                          |
+| :---: | -------------------------------------- |
+|  [main.cpp](./Assignments/P02/main.cpp)  | The main file that launches the program. |
+|  [console.hpp](./Assignments/P02/console.hpp)  | Determines the system type (windows/linux). |
+|  [json.hpp](./Assignments/P02/json.hpp)  | Loads functions to perform on JSON objects. |
+|  [rang.hpp](./Assignments/P02/rang.hpp)  | Allows colored text to be shown. |
+|  dictionary.json  | The dictionary of words used for autosuggestions. |
 
 ### Instructions
 - Be sure to install the above .cpp, .hpp, and json files.
@@ -24,4 +24,6 @@ This program uses Json and Getch to perform a linear search using a Json object 
 - To terminate without finding a word, press 'Z'.
 
 ### Output
-[<img src='https://github.com/jay-d515/3013-Algorithms/issues/1#issue-2288924412' width='400'>](https://github.com/jay-d515/3013-Algorithms/issues/1#issue-2288924412)
+<img src= 'https://github.com/jay-d515/3013-Algorithms/assets/156955919/5c82ea16-10fa-4c86-b196-6e20cf3dc6e3' width='1000'>
+<img src= 'https://github.com/jay-d515/3013-Algorithms/assets/156955919/3f1d5b67-b8dc-43c6-b792-60b17064c5b3' width='1000'>
+<img src= 'https://github.com/jay-d515/3013-Algorithms/assets/156955919/abf9dcb3-38ce-4a3e-8138-7d173007e87d' width='1000'>
